@@ -2,7 +2,7 @@ vendor
 .idea
 *.sqlite
 *.db
-
+*.env
 build
 sqlite3.db
 .Dockerfile.local
